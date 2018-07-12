@@ -3,4 +3,4 @@ CORRMEXT is an open-source resource use data and message logs analysis toolkit. 
 Download CORRMEXT [here.](https://tinyurl.com/y7wpv488)  To execute, simply run `diagtk -autorunCORRMEXT [config-file]` where `[config-file]` is the name of the configuration file.
 
 Reference:
-[1] E. Chuah, A. Jhumka, S. Alt, T. Damoulas, N. Gurumdimma, M.-C. Sawley, W. L. Barth, T. Minyard, J. C. Browne, *Enabling Dependability-Driven Resource Use and Message-Log Analysis for Cluster System Diagnosis*, in Proceedings of IEEE HiPC, 2017. DOI: https://doi.org/10.1109/HiPC.2017.00044
+[1] E. Chuah, A. Jhumka, S. Alt, T. Damoulas, N. Gurumdimma, M.-C. Sawley, W. L. Barth, T. Minyard, J. C. Browne, *Enabling Dependability-Driven Resource Use and Message-Log Analysis for Cluster System Diagnosis*, in Proceedings of IEEE HiPC, 2017. [DOI: https://doi.org/10.1109/HiPC.2017.00044](https://doi.org/10.1109/HiPC.2017.00044)

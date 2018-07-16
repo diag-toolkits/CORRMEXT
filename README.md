@@ -4,5 +4,5 @@ CORRMEXT is an open-source resource use data and message logs analysis toolkit. 
 ## Obtain CORRMEXT ##
 A 64-bit version compiled for Linux is available for downloading [here.](https://tinyurl.com/y7wpv488)  If you like to have a version compiled for another operating system, for example, Microsoft Windows, please get in touch with me. (echuah@turing.ac.uk)
 
-## Installation ##
+## Install CORRMEXT ##
 Unzip the file into a directory of your choice.  Add `[directory]/corrmext/toolkit/DiagTK/Release` to the directory path in your favourite Linux shell.  First, run the command `diagtk -generateCfgFile` to create a configuration file.  An empty config-file with default name `cfgfile` will be generated.  Fill the configuration file with your requirements.  Then, run the command `diagtk -autorunCORRMEXT [config-file]` where `[config-file]` is the name of the configuration file.
